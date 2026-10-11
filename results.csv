@@ -1,0 +1,16 @@
+experiment,variant,accuracy,balanced_accuracy
+Activation functions,none,0.633,0.633
+Activation functions,relu,0.642,0.642
+Activation functions,silu,0.633,0.633
+Activation functions,sigmoid,0.592,0.592
+Activation functions,tanh,0.592,0.592
+Activation functions,elu,0.583,0.583
+Activation functions,scaled_softsign,0.6,0.6
+Transfer learning,resnet18 (frozen backbone),0.8,0.8
+Transfer learning,resnet18 (full fine-tune),0.775,0.775
+Transfer learning,resnet50 (frozen backbone),0.75,0.75
+Transfer learning,resnet50 (full fine-tune),0.725,0.725
+Transfer learning,resnet152 (frozen backbone),0.783,0.783
+Transfer learning,resnet152 (full fine-tune),0.708,0.708
+Class imbalance,no sampler,0.617,0.617
+Class imbalance,with WeightedRandomSampler,0.6,0.6
