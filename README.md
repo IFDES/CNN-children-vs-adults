@@ -1,6 +1,6 @@
 # Children vs. Adults: Image Classification with CNNs
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/children-vs-adults-cnn/blob/main/children_vs_adults_cnn.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IFDES/CNN-children-vs-adults/blob/main/children_vs_adults_cnn.ipynb)
 
 A PyTorch project that classifies photos as **child** or **adult**, used as a testbed for three questions that come up in most real CNN work:
 
